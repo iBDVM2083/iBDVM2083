@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola, soy Briana Vázquez 👋
 
-<!--
-**iBDVM2083/iBDVM2083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante del **Instituto Tecnológico de Tijuana**.
 
-Here are some ideas to get you started:
+Actualmente me encuentro aprendiendo sobre todo este entorno de **GitHub**, y eso me emociona bastante 🙂.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías con las que he trabajado
+- C++
+- C#
+- Linux
+
+¡Espero ser bien recibida en este nuevo ecosistema para mí!
+
+![Conejo](https://www.shutterstock.com/image-vector/cute-cartoon-bunny-winking-saying-600nw-2699755031.jpg)
